@@ -9,7 +9,7 @@ c)Event &amp; Listeners <br />
 ![](screensort/Register-user.png)
 
 ### 2. Sending Mail Register Controller
-![](screensort/Register Controller.png)
+![](screensort/Register-Controller.png)
 
 ### 3. Sending Mail Using Observer
 ![](screensort/Observer.png)
