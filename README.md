@@ -8,7 +8,7 @@ c)Event &amp; Listeners <br />
 ### 1. Home Page
 ![](screensort/Register-user.png)
 
-### 2. Sending Mail Register Controller
+### 2. Sending Mail Using Register Controller
 ![](screensort/Register-Controller.png)
 
 ### 3. Sending Mail Using Observer
